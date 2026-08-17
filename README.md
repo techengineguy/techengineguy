@@ -1,24 +1,33 @@
 # Hi there, I'm Saheed Abdulganeey 👋
 
 ### 👨‍💻 About Me
-* 🔭 I’m a **Full-Stack Laravel Developer** specializing in building modern dynamic web applications using the TALL / VALL stack.
-* 🛠️ I build reactive, seamless user interfaces with **Livewire**, **Alpine.js**, and **Flux UI**.
-* 🌱 I’m currently refining my skills in advanced database optimization and scalable application architecture.
-* 👯 I’m looking to collaborate on open-source Laravel packages, full-stack applications, and innovative web projects.
-* 💬 Ask me about **Laravel, Livewire, Alpine.js, Flux UI, and MySQL database design**.
+* 🔭 I'm a **Fullstack Laravel Engineer** with 6+ years of experience architecting and building scalable web applications.
+* 🛠️ I specialize in **API design, multi-tenant SaaS architecture, cloud infrastructure, and database optimization** across fintech, payroll, inventory management, and academic domains.
+* 🌱 I build robust systems using **Laravel, Livewire, Blade, Alpine.js, MySQL, Docker, AWS and more...**.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
-* **Backend:** Laravel, PHP, MySQL
-* **Frontend:** Livewire, Alpine.js, Flux UI, Tailwind CSS, HTML5, JavaScript
-* **Tools & Version Control:** Git, GitHub, Composer, NPM
+* **Backend & Web:** PHP, Laravel, Livewire, Blade, Alpine.js, JavaScript, APIs
+* **Databases:** MySQL, PostgreSQL
+* **Cloud & DevOps:** AWS, Docker, Git, CI/CD
+
+---
+
+### 🚀 Featured Projects & Impact
+
+* **UK Payroll Engine:** Engineered a production-grade system computing UK tax codes, National Insurance, and pension deductions with HMRC-compliant FPS submissions and direct Stripe Connect payouts.
+* **UK Tax & Compliance Modules:** Built automated corporation tax and year-end accounting filing tools for [abbpaysolutions.com](https://abbpaysolutions.com).
+* **Multi-Tenant SaaS Platform:** Architected a secure multi-tenant platform with strict database isolation and an XBRL financial statement generator aligned with Companies House filing standards.
+* **School Management System:** Built a school management system that manages students, staff, exams, fees, attendance, payments and connect parents, teachers, and administrators [academiqedu.com](https://academiqedu.com).
+* **Dealership Inventory Management:** Built the vehicle management and sales workflow system behind [truthautos.com](https://truthautos.com).
+* **Academic Publishing System:** Built an Open Journal System handling full digital workflows for editorial tracking, peer review, and journal management.
 
 ---
 
 ### 📫 Connect with Me
-* 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)
-* 🌐 **Portfolio:** [Your Portfolio Website](https://sirheed.me)
-* 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-* ⚡ **Fun Fact:** I love building full-stack reactive UIs without ever writing custom API endpoints or heavy SPA frameworks!
+* 💼 **LinkedIn:** [in/saheed-abdulganiyu](https://linkedin.com/in/saheed-abdulganiyu)
+* 🌐 **Portfolio:** [sirheed.me](https://sirheed.me)
+* 𝕏 **Twitter / X:** [@techengineguy](https://x.com/techengineguy)
+* 📧 **Email:** [saheedabdulganiyu01@gmail.com](mailto:saheedabdulganiyu01@gmail.com)
